@@ -1,0 +1,8 @@
+{
+  "name": "prisma-migrate",
+  "private": true,
+  "dependencies": {
+    "prisma": "^6.9.0",
+    "@prisma/client": "^6.9.0"
+  }
+}
